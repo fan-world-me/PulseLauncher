@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "a0QJ5kvgzazDAhB6DCu2W"
+uri = "file://attached_assets/PulseLauncher_fixed.apk"
+type = "unspecified"
+title = "PulseLauncher_fixed.apk"
